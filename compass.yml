@@ -1,0 +1,16 @@
+name: bitebase-intelligence-astro
+id: ari:cloud:compass:af971579-9853-4d1d-a13d-a7a4f19f0f21:component/a1f6db64-4f64-4c66-9241-99b0d67cac95/5ce3dbb8-ae38-4432-b21d-04c1f17fbec1
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/BiteBase-app/bitebase-intelligence-astro
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
